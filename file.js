@@ -7,7 +7,9 @@ const d=()=>{
     alert("D")
 }
 
-const c=()=>{
-    alert("C")
+
+
+const e=()=>{
+    alert("A")
 }
 
