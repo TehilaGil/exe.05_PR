@@ -2,6 +2,6 @@ const a=()=>{
     alert("A")
 }
 
-const b=()=>{
-    alert("B")
+const c=()=>{
+    alert("C")
 }
